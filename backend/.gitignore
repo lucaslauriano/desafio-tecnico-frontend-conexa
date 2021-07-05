@@ -1,0 +1,9 @@
+node_modules
+build
+coverage
+.vscode/*
+!.vscode/settings.json
+.DS_STORE
+.env
+tmp
+

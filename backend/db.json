@@ -1,0 +1,44 @@
+{
+  "consultations": [
+    {
+      "patientId": "1",
+      "date": "2021-06-09T07:00:00.000Z",
+      "id": 3
+    },
+    {
+      "patientId": "1",
+      "date": "2021-05-12T08:00:00.000Z",
+      "id": 4
+    },
+    {
+      "patientId": "1",
+      "date": "2021-05-24T06:59:03.297Z",
+      "id": 5
+    },
+    {
+      "patientId": "1",
+      "date": "2021-05-05T20:30:00.000Z",
+      "id": 6
+    }
+  ],
+  "patients": [
+    {
+      "id": 1,
+      "first_name": "Frodo",
+      "last_name": "Baggins",
+      "email": "frodo.baggins@mail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Samwise",
+      "last_name": "Gamgee",
+      "email": "samwise.gamgee@mail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Saruman",
+      "last_name": "The White",
+      "email": "saruman.thewhite@mail.com"
+    }
+  ]
+}
