@@ -4,12 +4,12 @@ export const theme = extendTheme({
   colors: {
     gray: {
       "900": "#575453",
+      "700": "#DAD2D0",
       "600": "#7F7978",
       "500": "#999392",
       "300": "#B4AEAD",
       "200": "#CFC9C8",
-      "100": "#ECE5E4",
-      "700": "#DAD2D0",
+      "100": "#FDFCFC",
       "50": "#FFFFFB",
     },
     blue: {

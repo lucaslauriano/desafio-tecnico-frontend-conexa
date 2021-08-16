@@ -18,6 +18,7 @@ const SearchBox = () => {
       borderColor="gray.200"
       borderRadius="full"
     >
+      <Icon as={RiSearch2Line} fontSize="20" mt="2px" />
       <Input
         px="4"
         mr="4"
@@ -29,7 +30,6 @@ const SearchBox = () => {
           color: "gray.500",
         }}
       />
-      <Icon as={RiSearch2Line} fontSize="20" mt="2px" />
     </Flex>
   );
 };
